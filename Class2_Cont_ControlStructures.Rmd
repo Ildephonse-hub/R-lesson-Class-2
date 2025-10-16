@@ -1,7 +1,7 @@
 
 ---
 title: "Class2_Cont - Control Structures and Functions in R"
-author: "Dr. Pacifique"
+author: "IGIRUKWAYO Ildephonse"
 date: "2025-10-05"
 output:
   html_document:
